@@ -5,4 +5,4 @@ def greeting(request):
     return HttpResponse("<h1>Hello Python...</h1>")
 
 def raks(request):
-    return HttpResponse("<h1>राकेश चे भांडे. </h2>")
+    return HttpResponse("<h1>राकेश चे भांडे. </h1>")
